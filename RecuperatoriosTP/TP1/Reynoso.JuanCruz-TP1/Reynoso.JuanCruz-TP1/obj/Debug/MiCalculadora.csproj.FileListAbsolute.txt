@@ -1,0 +1,13 @@
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\Reynoso.JuanCruz_TP1.FormCalculadora.resources
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\Reynoso.JuanCruz_TP1.Properties.Resources.resources
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\bin\Debug\Reynoso.JuanCruz-TP1.exe.config
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\bin\Debug\Reynoso.JuanCruz-TP1.exe
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\bin\Debug\Reynoso.JuanCruz-TP1.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\bin\Debug\Entidades.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\bin\Debug\Entidades.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\Reynoso.JuanCruz-TP1.exe
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Reynoso.JuanCruz-TP1\Reynoso.JuanCruz-TP1\obj\Debug\Reynoso.JuanCruz-TP1.pdb
