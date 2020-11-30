@@ -1,0 +1,16 @@
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Reynoso.JuanCruz.2A.TP3.exe.config
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Reynoso.JuanCruz.2A.TP3.exe
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Reynoso.JuanCruz.2A.TP3.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Archivos.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Archivos.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\obj\Debug\Reynoso.JuanCruz.2A.TP3.csprojAssemblyReference.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\obj\Debug\Reynoso.JuanCruz.2A.TP3.csproj.CoreCompileInputs.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\obj\Debug\Reynoso.JuanCruz.2A.TP3.csproj.CopyComplete
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\obj\Debug\Reynoso.JuanCruz.2A.TP3.exe
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Reynoso.JuanCruz.2A.TP3\obj\Debug\Reynoso.JuanCruz.2A.TP3.pdb

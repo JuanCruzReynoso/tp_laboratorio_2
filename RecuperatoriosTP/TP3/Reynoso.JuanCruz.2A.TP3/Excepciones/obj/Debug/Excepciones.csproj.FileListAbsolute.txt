@@ -1,0 +1,6 @@
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\ChillOutKet\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Reynoso.JuanCruz.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
